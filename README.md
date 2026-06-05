@@ -1,5 +1,8 @@
 # Sharks Score App
 
+**本番URL：https://sharks-score-app-detp.vercel.app/**  
+※ Google OAuth 認証制限あり（チームメンバーのみログイン可）
+
 少年サッカーチームの試合記録・スコア管理 Web アプリ。
 
 保護者・コーチがスマホから試合中にリアルタイムでスコアを入力し、  
